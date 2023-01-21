@@ -7,7 +7,7 @@
  '(custom-safe-themes
    '("7f6d4aebcc44c264a64e714c3d9d1e903284305fd7e319e7cb73345a9994f5ef" default))
  '(package-selected-packages
-   '(vterm flycheck-swift swift-mode go-autocomplete ob-go ac-js2 nodejs-repl gitignore-mode gitignore-snippets use-package-hydra poetry ox-slack ox-ioslide exec-path-from-shell wttrin plain-org-wiki csharp-mode csv-mode bash-completion nord-theme powershell elixir-mode go-mode jdee ox-tufte ox-slimhtml ox-impress-js ox-html5slide ox-haunt ox-gfm shell-pop flyspell-correct-ivy pylint python-pylint exwm org org-bullets smartparens powerline use-package)))
+   '(ox-twbs org-tree-slide htmlize ox-reveal ob-http jdecomp git-gutter-fringe git-gutter magit visual-regexp ripgrep ag yaml-mode json-mode js2-mode php-mode web-beautify web-mode dockerfile-mode flycheck yasnippet-snippets company lsp-sourcekit lsp-pyright lsp-ivy lsp-ui lsp-mode popup-kill-ring which-key cheat-sh all-the-icons-ivy-rich ivy-rich counsel ivy multiple-cursors vterm flycheck-swift swift-mode go-autocomplete ob-go ac-js2 nodejs-repl gitignore-mode gitignore-snippets use-package-hydra poetry ox-slack ox-ioslide exec-path-from-shell wttrin plain-org-wiki csharp-mode csv-mode bash-completion nord-theme powershell elixir-mode go-mode jdee ox-tufte ox-slimhtml ox-impress-js ox-html5slide ox-haunt ox-gfm shell-pop flyspell-correct-ivy pylint python-pylint exwm org org-bullets smartparens powerline use-package)))
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
